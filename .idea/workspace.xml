@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f07d5b23-4ba3-4364-b68e-a20707e4bc45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python length static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py programs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +31,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Uvuxwf6HD6uL3rFrZj0UeU58JS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,10 +42,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/pyprograms" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.python length">
-    <configuration name="array remove" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.numpy arange">
+    <configuration name="input array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array remove.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array reverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numpy 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numpy arange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy arange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nesting array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numpy linspace" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nesting array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy linspace.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python length" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="python length static" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python length.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python length static.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.python length" />
-        <item itemvalue="Python.array reverse" />
-        <item itemvalue="Python.array remove" />
-        <item itemvalue="Python.nesting array" />
-        <item itemvalue="Python.array2" />
+        <item itemvalue="Python.numpy arange" />
+        <item itemvalue="Python.numpy linspace" />
+        <item itemvalue="Python.numpy 1" />
+        <item itemvalue="Python.input array" />
+        <item itemvalue="Python.python length static" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576683238990</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nesting array">
+      <created>1576908148493</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576908148493</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,50 +240,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="0" key="#fibonaccci/0.0.1366.728@0.0.1366.728" timestamp="1576249741844" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1576683236416">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1576908146296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576683236416" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576908146296" />
     <state x="643" y="124" key="FileChooserDialogImpl" timestamp="1576404130094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="643" y="124" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576404130094" />
-    <state width="1345" height="140" key="GridCell.Tab.0.bottom" timestamp="1576908125970">
+    <state width="1340" height="179" key="GridCell.Tab.0.bottom" timestamp="1579883858481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="140" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576908125970" />
-    <state width="1345" height="140" key="GridCell.Tab.0.center" timestamp="1576908125970">
+    <state width="1340" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579883858481" />
+    <state width="1340" height="179" key="GridCell.Tab.0.center" timestamp="1579883858480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="140" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576908125970" />
-    <state width="1345" height="140" key="GridCell.Tab.0.left" timestamp="1576908125968">
+    <state width="1340" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579883858480" />
+    <state width="1340" height="179" key="GridCell.Tab.0.left" timestamp="1579883858480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="140" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576908125968" />
-    <state width="1345" height="140" key="GridCell.Tab.0.right" timestamp="1576908125970">
+    <state width="1340" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579883858480" />
+    <state width="1340" height="179" key="GridCell.Tab.0.right" timestamp="1579883858480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="140" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576908125970" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1576296885650">
+    <state width="1340" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579883858480" />
+    <state x="178" y="0" width="1141" height="728" key="SettingsEditor" timestamp="1579882738234">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576296885650" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1576683262106">
+    <state x="178" y="0" width="1141" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579882738234" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1576908169905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1576683262106" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1576908169905" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1576403684134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1576403684134" />
-    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576404969096">
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576908156473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1576404969096" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1576908156473" />
     <state x="484" y="155" key="git4idea.merge.GitPullDialog" timestamp="1576403129180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="155" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1576403129180" />
+    <state x="365" y="204" width="707" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1579097618414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="365" y="204" width="707" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1579097618414" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578324065908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578324065908" />
     <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1576296800588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
