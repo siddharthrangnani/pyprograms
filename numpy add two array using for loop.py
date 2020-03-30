@@ -1,5 +1,7 @@
 from numpy import *
-arr1=([1,2,3,4],int)
-for a in arr1:
-    arr1=arr1+1
-    print(arr1)
+arr=array([1,2,3,4],int)
+arr1=array([1,1,1,1],int)
+for a in arr+arr1:
+        print(a)
+
+
