@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f07d5b23-4ba3-4364-b68e-a20707e4bc45" name="Default Changelist" comment="numpy">
-      <change beforePath="$PROJECT_DIR$/.idea/py programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py programs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array remove.py" beforeDir="false" afterPath="$PROJECT_DIR$/array remove.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays1.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class2.py" beforeDir="false" afterPath="$PROJECT_DIR$/class2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codechef scholarship.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/progressbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytube downloader.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pyprograms" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -38,12 +48,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ytd downloader">
-    <configuration name="class2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.twilio demo">
+    <configuration name="argsfunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argsfunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytube downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="progressbar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytube downloader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/progressbar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twilio demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twilio demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ytd downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twiliocall" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ytd downloader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twiliocall.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ytd test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="whatsapp twilio" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ytd test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whatsapp twilio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ytd downloader" />
-        <item itemvalue="Python.pytube downloader" />
-        <item itemvalue="Python.ytd test" />
-        <item itemvalue="Python.tkinter" />
-        <item itemvalue="Python.class2" />
+        <item itemvalue="Python.twilio demo" />
+        <item itemvalue="Python.twiliocall" />
+        <item itemvalue="Python.whatsapp twilio" />
+        <item itemvalue="Python.progressbar" />
+        <item itemvalue="Python.argsfunction" />
       </list>
     </recent_temporary>
   </component>
@@ -308,65 +319,49 @@
     <option name="LAST_COMMIT_MESSAGE" value="numpy" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1590330482812">
+    <state x="315" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600527712052">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590330482812" />
-    <state width="1340" height="150" key="GridCell.Tab.0.bottom" timestamp="1590420662547">
+    <state x="315" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600527712052" />
+    <state width="1346" height="155" key="GridCell.Tab.0.bottom" timestamp="1603772840442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590420662547" />
-    <state width="1340" height="150" key="GridCell.Tab.0.center" timestamp="1590420662547">
+    <state width="1346" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603772840442" />
+    <state width="1346" height="155" key="GridCell.Tab.0.center" timestamp="1603772840441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="150" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590420662547" />
-    <state width="1340" height="150" key="GridCell.Tab.0.left" timestamp="1590420662546">
+    <state width="1346" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603772840441" />
+    <state width="1346" height="155" key="GridCell.Tab.0.left" timestamp="1603772840441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="150" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590420662546" />
-    <state width="1340" height="150" key="GridCell.Tab.0.right" timestamp="1590420662547">
+    <state width="1346" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603772840441" />
+    <state width="1346" height="155" key="GridCell.Tab.0.right" timestamp="1603772840442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="150" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590420662547" />
-    <state width="1340" height="210" key="GridCell.Tab.1.bottom" timestamp="1590330671334">
+    <state width="1346" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603772840442" />
+    <state width="1346" height="221" key="GridCell.Tab.1.bottom" timestamp="1601481182369">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="210" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590330671334" />
-    <state width="1340" height="210" key="GridCell.Tab.1.center" timestamp="1590330671334">
+    <state width="1346" height="221" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601481182369" />
+    <state width="1346" height="221" key="GridCell.Tab.1.center" timestamp="1601481182368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="210" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590330671334" />
-    <state width="1340" height="210" key="GridCell.Tab.1.left" timestamp="1590330671334">
+    <state width="1346" height="221" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601481182368" />
+    <state width="1346" height="221" key="GridCell.Tab.1.left" timestamp="1601481182368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="210" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590330671334" />
-    <state width="1340" height="210" key="GridCell.Tab.1.right" timestamp="1590330671334">
+    <state width="1346" height="221" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601481182368" />
+    <state width="1346" height="221" key="GridCell.Tab.1.right" timestamp="1601481182369">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="210" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590330671334" />
-    <state x="178" y="0" width="1141" height="728" key="SettingsEditor" timestamp="1590414637393">
+    <state width="1346" height="221" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601481182369" />
+    <state x="102" y="-16" width="1141" height="728" key="SettingsEditor" timestamp="1603693467732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="178" y="0" width="1141" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590414637393" />
-    <state x="275" y="56" key="Vcs.Push.Dialog.v2" timestamp="1590330491711">
+    <state x="102" y="-16" width="1141" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603693467732" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603610142301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="56" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590330491711" />
-    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585553701953">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1585553701953" />
-    <state x="422" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585552406420">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="422" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1585552406420" />
-    <state x="417" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588855602286">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="417" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1588855602286" />
-    <state x="271" y="107" key="git4idea.merge.GitPullDialog" timestamp="1585553699140">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="271" y="107" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1585553699140" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603610142301" />
   </component>
 </project>
